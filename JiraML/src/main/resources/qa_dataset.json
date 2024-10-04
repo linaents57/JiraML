@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the full form of CPU?",
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which data structure uses LIFO (Last In, First Out) principle?",
+    "answer": "Stack"
+  },
+  {
+    "question": "What is the time complexity of binary search?",
+    "answer": "O(log n)"
+  },
+  {
+    "question": "Which programming language is known as the mother of all languages?",
+    "answer": "C"
+  },
+  {
+    "question": "What is a primary key in a database?",
+    "answer": "A unique identifier for a record"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "question": "What is an IP address used for?",
+    "answer": "Identifying a device on a network"
+  },
+  {
+    "question": "What type of data structure is used in Breadth-First Search (BFS)?",
+    "answer": "Queue"
+  },
+  {
+    "question": "Which operator is used for assignment in most programming languages?",
+    "answer": "="
+  },
+  {
+    "question": "What is an array?",
+    "answer": "A collection of elements in memory"
+  }
+]
